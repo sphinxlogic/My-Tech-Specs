@@ -20,6 +20,8 @@ HP EliteDesk 800 GT
 	Bose 2.1 Speakers
 
 	IEEE Standard USB 3.0 Bluray and Floppy Drives
+	
+	Standard Hp Keyboard
 
 
 HP EliteDesk
@@ -31,6 +33,8 @@ HP EliteDesk
 	Intel i7 Core2.50GHtz
 
 	OnBoard Graphics
+
+	
 
 	
 
