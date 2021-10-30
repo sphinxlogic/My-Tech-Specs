@@ -30,9 +30,13 @@ HP EliteDesk
 
 	HP Touchscreen Monitor	
 	
-	Intel i7 Core2.50GHtz
+	Intel i7 Core 2.50GHtz
 
 	OnBoard Graphics
+
+	12 GB Micron RAM DDR3
+
+	4 TB Seagate
 
 	
 
