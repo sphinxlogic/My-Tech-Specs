@@ -3,19 +3,36 @@
 
 HP EliteDesk 800 GT
 
-Windows 8.1 Enterprise
+	Windows 8.1 Enterprise
 
-Intel i7 Core 3.25 GHtz capable of a Xeon.
+	Standard monitor with HDMI inputs and Outputs DVI VGA
 
-32.0 GB Dual-Channel DDR3 RAM
+	Intel i7 Core 3.25 GHtz capable of a Xeon.
 
-Nvidia Quatro FX Series
+	32.0 GB Dual-Channel DDR3 RAM
 
-Creative Audigy Soundblaster 
+	Nvidia Quatro FX Series
 
-8 Tb Seagate Barracuda
+	Creative Audigy Soundblaster 
 
-Bose 2.1 Speakers
+	8 Tb Seagate Barracuda
+
+	Bose 2.1 Speakers
+
+	IEEE Standard USB 3.0 Bluray and Floppy Drives
+
+
+HP EliteDesk
+
+	Windows 8.1 Enterprise
+
+	HP Touchscreen Monitor	
+	
+	Intel i7 Core2.50GHtz
+
+	OnBoard Graphics
+
+	
 
 25 TB backups
 
