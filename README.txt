@@ -15,6 +15,8 @@ Creative Audigy Soundblaster
 
 Bose 2.1 Speakers
 
+25 TB backups
+
 ASUS ROG G750JX
 
 
