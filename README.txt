@@ -38,7 +38,7 @@ HP EliteDesk
 
 	4 TB Seagate
 
-	
+	Microsoft Entertainment bluetooth Keyboard	
 
 	
 
